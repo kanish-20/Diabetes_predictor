@@ -24,9 +24,10 @@ This is a simple web application that predicts whether a person is diabetic base
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 diabetes-prediction-flask/
+
 ├── app.py
 ├── train_model.py
 ├── diabetes.csv
@@ -88,9 +89,10 @@ http://127.0.0.1:5000
 
 ## Step-by-step :
 
-![WhatsApp Image 2025-08-03 at 23 51 21](https://github.com/user-attachments/assets/176b1317-3d8c-417f-896a-caf472162639)
-![WhatsApp Image 2025-08-03 at 23 51 21 (1)](https://github.com/user-attachments/assets/8179145e-b59e-4990-94ee-9d857ca425e9)
-![WhatsApp Image 2025-08-03 at 23 51 21 (2)](https://github.com/user-attachments/assets/18479e23-2c2c-4abc-b42d-e81e37901b19)
+![WhatsApp Image 2025-08-03 at 23 55 29](https://github.com/user-attachments/assets/a8553828-38b4-4668-8b9e-c1c7aff47ece)
+![WhatsApp Image 2025-08-03 at 23 55 29 (1)](https://github.com/user-attachments/assets/6e4745dc-7fcf-4cb8-b578-80c344f4e1af)
+![WhatsApp Image 2025-08-03 at 23 55 29 (2)](https://github.com/user-attachments/assets/6e6b632b-3f8d-4bea-baca-fb158b2c8393)
+
 
 
 
